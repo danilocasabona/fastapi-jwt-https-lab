@@ -2,8 +2,11 @@
 
 # 🔐 FastAPI JWT HTTPS Lab
 
-Este é um laboratório prático criado para demonstrar a implementação de **autenticação com JWT (JSON Web Tokens)**, usando **FastAPI**, **HTTPS com certificado autoassinado** e **boas práticas de segurança para APIs REST**.
+[![Python Version](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/downloads/release/python-3120/)
+[![Last Commit](https://img.shields.io/github/last-commit/danilocasabona/fastapi-jwt-https-lab)](https://github.com/danilocasabona/fastapi-jwt-https-lab/commits/main)
+[![License](https://img.shields.io/github/license/danilocasabona/fastapi-jwt-https-lab)](LICENSE)
 
+Este é um laboratório prático criado para demonstrar a implementação de **autenticação com JWT (JSON Web Tokens)**, usando **FastAPI**, **HTTPS com certificado autoassinado** e **boas práticas de segurança para APIs REST**
 ---
 
 ## ✅ Objetivos do projeto:
